@@ -3,4 +3,5 @@
     <string name="title">Pendaftaran</string>
     <string name="nama">Nama: </string>
     <string name="namadepan">Nama Depan</string>
+    <string name="namabelakang">Nama Belakang</string>
 </resources>
