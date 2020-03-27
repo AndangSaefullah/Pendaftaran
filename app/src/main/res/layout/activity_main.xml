@@ -68,7 +68,29 @@
                 android:hint="@string/alm">
 
             </EditText>
+            <RadioGroup>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/jnsklm"
+                    android:textSize="17sp">
+                </TextView>
+                <TableRow
 
+                    android:layout_marginTop="15dp">
+                    <RadioButton
+                        android:text="@string/l"
+                        android:layout_marginHorizontal="15dp">
+
+                    </RadioButton>
+                    <RadioButton
+                        android:text="@string/p"
+                        android:layout_marginHorizontal="15dp">
+                    </RadioButton>
+                </TableRow>
+
+            </RadioGroup>
         </TableLayout>
 
 
