@@ -42,6 +42,33 @@
                     android:hint="@string/namabelakang">
                 </EditText>
             </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="78dp"
+                android:layout_marginTop="10dp">
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:hint="@string/tmp">
+                </EditText>
+
+                <EditText
+                    android:layout_width="213dp"
+                    android:layout_height="match_parent"
+                    android:hint="@string/tgl">
+                </EditText>
+            </TableRow>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="93dp"
+                android:layout_marginVertical="40dp"
+                android:layout_marginTop="10dp"
+                android:hint="@string/alm">
+
+            </EditText>
+
         </TableLayout>
 
 

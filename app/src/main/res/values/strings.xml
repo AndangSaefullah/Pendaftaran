@@ -4,4 +4,8 @@
     <string name="nama">Nama: </string>
     <string name="namadepan">Nama Depan</string>
     <string name="namabelakang">Nama Belakang</string>
+    <string name="tmp">Tempat</string>
+    <string name="tgl">Tanggal</string>
+    <string name="alm">Alamat</string>
+
 </resources>
