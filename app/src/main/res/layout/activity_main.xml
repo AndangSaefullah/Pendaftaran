@@ -82,12 +82,13 @@
                     <RadioButton
                         android:text="@string/l"
                         android:layout_marginHorizontal="15dp">
-
                     </RadioButton>
+
                     <RadioButton
                         android:text="@string/p"
                         android:layout_marginHorizontal="15dp">
                     </RadioButton>
+
                 <TableRow
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -151,7 +152,18 @@
                         </RadioButton>
                     </RadioGroup>
                 </TableRow>
-
+                <EditText
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:hint="@string/tlp">
+                </EditText>
+                <EditText
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:hint="@string/em">
+                </EditText>
             </RadioGroup>
         </TableLayout>
 
